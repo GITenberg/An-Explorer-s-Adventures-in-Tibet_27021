@@ -1,0 +1,31 @@
+_repo: An-Explorer-s-Adventures-in-Tibet_27021
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27021-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Landor, Arnold Henry Savage
+    aliases:
+    - Landor, A. H. Savage
+    - Landor, A. Henry Savage (Arnold Henry Savage)
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '4851'
+    url: http://www.gutenberg.org/2009/agents/4851
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
+description: ''
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27021'
+  lccn: '10010328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcc 'DS'
+title: An Explorer's Adventures in Tibet
+url: http://www.gutenberg.org/ebooks/27021
